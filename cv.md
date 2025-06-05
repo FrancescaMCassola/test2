@@ -1,12 +1,11 @@
 ---
 layout: page
-title: Curriculum Vitae
-permalink: /cv/
----
-
-<div style="background-color:#c0392b; color:white; padding:1rem; border-radius:8px; text-align:center; margin-bottom: 2rem;">
+title: <div style="background-color:#c0392b; color:white; padding:1rem; border-radius:8px; text-align:center; margin-bottom: 2rem;">
   <h1 style="margin: 0;">Curriculum Vitae</h1>
 </div>
+
+permalink: /cv/
+---
 
 
 ## 👩‍🔬 Academic and Research Experience
