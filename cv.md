@@ -6,8 +6,7 @@ permalink: /cv/
 
 <h1 style="background-color:#c0392b; color:white; padding:0.5em; border-radius:8px; text-align:center;">Curriculum Vitae</h1>
 
-
-## Academic and Research Experience
+## 👩‍🔬 Academic and Research Experience
 
 **2025–present**  
 🐊 *Marie Skłodowska-Curie Postdoctoral Research Fellow*, Anglia Ruskin University, Cambridge, UK  
