@@ -9,7 +9,7 @@ url: "https://tuo_username.github.io/tuo_repo"
 
 permalink: /:year/:month/:title/
 highlighter: rouge
-cover_color: slate
+cover_color: red
 
 # Blog button
 blog_button:
