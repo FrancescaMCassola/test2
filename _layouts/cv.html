@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="en">
+  {% include head.html %}
+  <body>
+
+    <div class="content-wrapper">
+      <div class="content-wrapper__inner" style="max-width: 900px; margin: auto; padding: 2rem;">
+        {{ content }}
+        {% include footer.html %}
+      </div>
+    </div>
+
+    {% include external.html %}
+  </body>
+</html>
