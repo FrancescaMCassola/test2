@@ -6,7 +6,7 @@ permalink: /cv/
 
 <!-- Elimina il titolo Markdown duplicato -->
 
-<div style="background-color:#c0392b; color:white; padding:1rem; border-radius:8px; text-align:left; margin-bottom: 2rem;">
+<div style="background-color:#c0392b; title-color:white; padding:1rem; border-radius:8px; text-align:left; margin-bottom: 2rem;">
   <h1 style="margin: 0; font-size: 2em;">Curriculum Vitae</h1>
 </div>
 
