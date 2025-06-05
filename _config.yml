@@ -1,8 +1,8 @@
 # Basic
 title: Francesca M. Cassola
 subtitle: Behavioural Ecologist and Science Communicator
-welcome_message: Welcome, friend!
-description: Personal website of Francesca M. Cassola – Marie Curie Fellow at ARU
+welcome_message: From behaviour to conservation, with a passion for storytelling.
+description: MSCA Postdoctoral Research Fellow at Anglia Ruskin University, Cambdridge, Uk
 creator: Francesca M. Cassola
 
 url: "https://tuo_username.github.io/tuo_repo"
@@ -14,14 +14,14 @@ cover_color: red
 # Blog button
 blog_button:
   title: Blog
-  description: Thoughts, updates and science
+  description: Updates and reflections from my work
 
 # Main navigation
 nav:
-  - {title: CV, description: Academic Curriculum, url: '/cv'}
-  - {title: Science Outreach, description: Podcast and more, url: '/science-outreach'}
-  - {title: University, description: Anglia Ruskin University, url: 'https://aru.ac.uk'}
-  - {title: Project, description: EvOCRO project, url: '/project'}
+  - {title: CV, description: Education and publications, url: '/cv'}
+  - {title: Drops of Science, description: Podcast and public outreach, url: '/science-outreach'}
+  - {title: EvOCRO, description: My current MSCA project, url: '/project'}
+  - {title: Blog, description: Updates and thoughts, url: '/blog'}
   - {title: IT 🇮🇹, description: Versione italiana, url: '/it/'}
   - {title: ES 🇪🇸, description: Versión en español, url: '/es/'}
 
