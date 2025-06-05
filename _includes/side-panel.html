@@ -37,8 +37,8 @@
     {% for item in site.nav %}
       {% unless item.title contains 'IT' or item.title contains 'ES' %}
         <li class="navigation__item">
-          <a href="{{ item.url }}" title="{{ item.description }}">{{ item.title }}</a>
-        </li>
+  <a href="/#blog" title="{{ site.blog_button.description }}">{{ site.blog_button.title }}</a>
+</li>
       {% endunless %}
     {% endfor %}
   </ul>
