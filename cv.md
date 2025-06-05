@@ -21,7 +21,7 @@ Biomonitoring data analysis in Val d'Agri
 **2018–2021**  
 🐢 *PhD in Ecology and Sustainable Development*, El Colegio de la Frontera Sur, Mexico  
 Thesis: “Ecologia reproductiva de *Rhinoclemmys areolata* en condiciones de semicauvierio”  
-(Reproductive ecology of Rhinoclemmys areolata under semi-captive conditions)
+(Reproductive ecology of *Rhinoclemmys areolata* under semi-captive conditions)
 
 **2011–2015**  
 🐸 *MSc in Conservation and Nature Dissemination*, "La Sapienza" University of Rome, Italy  
@@ -56,7 +56,7 @@ Pacifici, M., Visconti, P., Butchart, S.H.M., Watson, J.E.M., **Cassola, F.M.**,
 
 ## 📚 Technical Reports
 
-De Silvestri, M., Cassola, F.M., and Cazzolla Gatti, R. (2023). Progetto di Monitoraggio dello Stato degli Ecosistemi della Val d’Agri. Monitoraggio Carabidofauna
+De Silvestri, M., **Cassola, F.M.**, and Cazzolla Gatti, R. (2023). Progetto di Monitoraggio dello Stato degli Ecosistemi della Val d’Agri. Monitoraggio Carabidofauna
 
 ---
 
@@ -68,9 +68,9 @@ Creation of a comprehensive map of manatee distribution for the book “Manatíe
 
 ## 📚 Poster Presentation
 
-Cassola, F.M., Pacifici, M., and Rondinini, C. Vulnerability of amphibians and birds to climate change. Ecology at the Interface 2015
+**Cassola, F.M.**, Pacifici, M., and Rondinini, C. Vulnerability of amphibians and birds to climate change. Ecology at the Interface 2015
 
-Cassola, F.M., Iaria J., Martini, M., De Silvestri, M, Lattarulo, D., Rossin, J., and Cazzolla Gatti, R. Monitoring the effect of anthropogenic pressures on biodiversity: a multitaxonomic approach. ECCB 2024 – 7th European Congress of Conservation Biology
+**Cassola, F.M.**, Iaria J., Martini, M., De Silvestri, M, Lattarulo, D., Rossin, J., and Cazzolla Gatti, R. Monitoring the effect of anthropogenic pressures on biodiversity: a multitaxonomic approach. ECCB 2024 – 7th European Congress of Conservation Biology
 
 ---
 
