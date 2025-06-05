@@ -18,7 +18,6 @@ blog_button:
 
 # Main navigation
 nav:
-  - {title: Blog, description: Posts thought and news, url: '/blog'}
   - {title: CV, description: Education and publications, url: '/cv'}
   - {title: Drops of Science, description: Podcast and public outreach, url: '/science-outreach'}
   - {title: EvOCRO, description: My current MSCA project, url: '/project'}
