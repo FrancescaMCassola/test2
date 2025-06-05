@@ -21,7 +21,6 @@ nav:
   - {title: CV, description: Education and publications, url: '/cv'}
   - {title: Drops of Science, description: Podcast and public outreach, url: '/science-outreach'}
   - {title: EvOCRO, description: My current MSCA project, url: '/project'}
-  - {title: Blog, description: Updates and thoughts, url: '/blog'}
   - {title: IT 🇮🇹, description: Versione italiana, url: '/it/'}
   - {title: ES 🇪🇸, description: Versión en español, url: '/es/'}
 
