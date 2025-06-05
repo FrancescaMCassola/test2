@@ -4,7 +4,7 @@ title: Curriculum Vitae
 permalink: /cv/
 ---
 
-## 🐊 Academic and Research Experience
+## Academic and Research Experience
 
 **2025–present**  
 🐊 *Marie Skłodowska-Curie Postdoctoral Research Fellow*, Anglia Ruskin University, Cambridge, UK  
