@@ -38,28 +38,31 @@
 </div>
 
 
-        <div class="navigation-wrapper">
-          <div>
-            <nav class="cover-navigation cover-navigation--primary">
-              <!-- Prima riga: Blog + pulsanti principali -->
-              <ul class="navigation">
-                <li class="navigation__item">
-                  <a href="{{ site.baseurl }}/#blog" title="{{ site.blog_button.description }}" class="blog-button">
-                    {{ site.blog_button.title }}
-                  </a>
-                </li>
-                {% for item in site.nav %}
-                  {% unless item.title contains 'IT' or item.title contains 'ES' %}
-                    <li class="navigation__item">
-                      <a href="{{ item.url }}" title="{{ item.description }}">{{ item.title }}</a>
-                    </li>
-                  {% endunless %}
-                {% endfor %}
-              </ul>
+        <!-- Navigazione -->
+<div class="navigation-wrapper">
+  <div>
+    <nav class="cover-navigation cover-navigation--primary">
+      <!-- Prima riga: Blog + pulsanti principali -->
+      <ul class="navigation">
+        <li class="navigation__item">
+          <a href="{{ site.baseurl }}/#blog" title="{{ site.blog_button.description }}" class="blog-button">
+            {{ site.blog_button.title }}
+          </a>
+        </li>
+        {% for item in site.nav %}
+          {% unless item.title contains 'IT' or item.title contains 'ES' %}
+            <li class="navigation__item">
+              <a href="{{ item.url }}" title="{{ item.description }}">{{ item.title }}</a>
+            </li>
+          {% endunless %}
+        {% endfor %}
+      </ul>
+    </nav>
+  </div>
 
-          <!-- Social -->
-          <div>{% include social.html %}</div>
-        </div>
+  <!-- Social -->
+  <div>{% include social.html %}</div>
+</div>
 
       </div>
     </div>
