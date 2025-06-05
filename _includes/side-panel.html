@@ -30,8 +30,10 @@
         <div class="navigation-wrapper">
           <div>
             <nav class="cover-navigation cover-navigation--primary">
-  <ul class="navigation">
-    <!-- Prima riga: tutti i link tranne lingue -->
+  <nav class="cover-navigation cover-navigation--primary">
+
+  <!-- Prima riga: pulsanti principali -->
+  <ul class="navigation" style="flex-wrap: wrap;">
     {% for item in site.nav %}
       {% unless item.title contains 'IT' or item.title contains 'ES' %}
         <li class="navigation__item">
@@ -41,8 +43,8 @@
     {% endfor %}
   </ul>
 
-  <ul class="navigation" style="margin-top: 0.5rem; justify-content: center; display: flex;">
-    <!-- Seconda riga: solo le lingue -->
+  <!-- Seconda riga: lingue -->
+  <ul class="navigation" style="display: flex; justify-content: center; margin-top: 1rem;">
     {% for item in site.nav %}
       {% if item.title contains 'IT' or item.title contains 'ES' %}
         <li class="navigation__item">
@@ -51,7 +53,9 @@
       {% endif %}
     {% endfor %}
   </ul>
+  
 </nav>
+
 
           </div>
 
