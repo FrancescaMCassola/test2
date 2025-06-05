@@ -28,7 +28,7 @@ Thesis: “Ecologia reproductiva de *Rhinoclemmys areolata* en condiciones de se
 Thesis: Vulnerabilità delle classi di anfibi e uccelli al cambio climatico (Vulnerability of birds and amphibians classes to climate change)
 
 **2013**  
-🌍 Erasmus Project  
+🌍 *Erasmus Student*
 6 months period at Universidad Auntónoma de Madrid, Spain
 
 **2007–2011**  
@@ -124,4 +124,4 @@ Global Red List IUCN Assessor Certificate (2015)
 
 ## 🧩 Extra-Academic Work and Experience...because often it takes time to find an academic job
 
-I was a waitress, a tourist guide, an administrative employee, an external scientific expert, certificated pole fitness instructor, science teacher, and much more. You can find everything on my linkedin profile
+I was a waitress, a tourist guide, an administrative employee, an external scientific expert, a certified pole fitness instructor, a science teacher, and much more. You can find everything on my LinkedIn profile.
