@@ -20,7 +20,7 @@ Biomonitoring data analysis in Val d'Agri (June–December)
 
 **2018–2021**  
 🐢 *PhD in Ecology and Sustainable Development*, El Colegio de la Frontera Sur, Mexico  
-Thesis: “Ecologia reproductiva de Rhinoclemmys areolata en condiciones de semicauvierio”  
+Thesis: “Ecologia reproductiva de *Rhinoclemmys areolata* en condiciones de semicauvierio”  
 (Reproductive ecology of Rhinoclemmys areolata under semi-captive conditions)
 
 **2011–2015**  
@@ -40,7 +40,7 @@ Thesis: “Allestimento dell'area “Rocce Organogene” della collezione didatt
 
 ## 📚 Selected Publications
 
-Cassola, F.M., Henaut, Y., Cedeño-Vázquez, J. R., Méndez-de la Cruz, F. R., and Morales-Vela, B. (2025). Male reaction to female stimuli in Rhinoclemmys areolata: an experimental analysis to understand mate recognition by males. Herpetological Conservation and Biology, 20(1), pp.31-42
+Cassola, F.M., Henaut, Y., Cedeño-Vázquez, J. R., Méndez-de la Cruz, F. R., and Morales-Vela, B. (2025). Male reaction to female stimuli in *Rhinoclemmys areolata*: an experimental analysis to understand mate recognition by males. Herpetological Conservation and Biology, 20(1), pp.31-42
 
 Cassola, F.M., Iaria, J., Martini, M., Santi, F., De Silvestri, M., Lattarulo, D., Rossin, J., Carli, E., Angelini, P., Casella, L. … and Cazzolla Gatti, R.  (2025). Assessing the effects of anthropogenic pressures on biodiversity: a multi-taxonomic approach in Basilicata, Italy. Environmental Science and Pollution Research, p. 7111
 
@@ -48,7 +48,7 @@ Martini, M., Patelli, S., Cassola, F.M., Iaria, J., Livornese, M., Prandelli, S.
 
 Gatti, R. C., Iaria, J., Moretti, G., Amendola, V., Cassola, F. M., Cerretti, P., ... and Chiarucci, A. (2024). EU2030 biodiversity strategy: Unveiling gaps in the coverage of ecoregions and threatened species within the strictly protected areas of Italy. Journal for Nature Conservation, 126621
 
-Cassola, F.M., Henaut, Y., Cedeño-Vázquez, J. R., Méndez-de la Cruz, F. R., and Morales-Vela, B. (2020). Temperament and sexual behaviour in the Furrowed Wood Turtle Rhinoclemmys areolata. Plos ONE, 15(12), e0244561
+Cassola, F.M., Henaut, Y., Cedeño-Vázquez, J. R., Méndez-de la Cruz, F. R., and Morales-Vela, B. (2020). Temperament and sexual behaviour in the Furrowed Wood Turtle *Rhinoclemmys areolata*. Plos ONE, 15(12), e0244561
 
 Pacifici, M., Visconti, P., Butchart, S.H.M., Watson, J.E.M., Cassola, F.M., and Rondinini, C. (2017). Species’ traits influenced their response to recent climate change. Nature Climate Change
 
