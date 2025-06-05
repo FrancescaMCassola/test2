@@ -1,49 +1,48 @@
 # Basic
 title: Francesca M. Cassola
-subtitle: Welcome, visitor!
-welcome_message: <a href="https://github.com/onevcat/vno-jekyll" target="_blank">Download the theme</a>
-description: Vno Jekyll is a port of my Ghost theme vno.
-creator: <a href="http://onev.cat">@onevcat</a>
+subtitle: Behavioural ecologist and science communicator
+welcome_message: Welcome to my personal academic page!
+description: Personal website of Francesca M. Cassola – Marie Curie Fellow at ARU
+creator: Francesca M. Cassola
 
-url: "http://vno.onevcat.com"
+url: "https://tuo_username.github.io/tuo_repo"
 
 permalink: /:year/:month/:title/
-
-# Format
 highlighter: rouge
+cover_color: slate
 
-# supported colors: blue, green, purple, red, orange or slate. If you need clear, leave it empty.
-cover_color: red
-
-# The blog button should not be removed.
+# Blog button
 blog_button:
-    title: Blog
-    description: Visit blog
+  title: Blog
+  description: Thoughts, updates and science
 
-# Navigation buttons in the front page.
+# Main navigation
 nav:
-    - {title: Projects, description: My Projects, url: 'http://project.onevcat.com'}
-    # - {title: Another Button, description: A button, url: 'http://example.com'}
+  - {title: CV, description: Academic Curriculum, url: '/cv'}
+  - {title: Science Outreach, description: Podcast and more, url: '/science-outreach'}
+  - {title: University, description: Anglia Ruskin University, url: 'https://aru.ac.uk'}
+  - {title: Project, description: EvOCRO project, url: '/project'}
+  - {title: IT 🇮🇹, description: Versione italiana, url: '/it/'}
+  - {title: ES 🇪🇸, description: Versión en español, url: '/es/'}
+
+# Social
+social:
+  github: francesca-cassola
+  linkedin: francesca-cassola
+  twitter: cassolafranci
+  mail: francesca.cassola@email.com
+  podcast: https://open.spotify.com/show/tuo-podcast
 
 # Pagination
 plugins: [jekyll-paginate]
 paginate: 10
 paginate_path: "page/:num/"
 
-# Comment
+# Comments (off)
 comment:
-    disqus: vno-jekyll
-    # duoshuo: 
-    
-# Social
-social:
-    weibo: onevcat
-    github: onevcat
-    twitter: onevcat
-    gplus: 107108267983477358170
-    mail: onev@onevcat.com
+  disqus: ''
 
-# Google Analytics
+# Google Analytics (optional)
 ga:
-    # id: your_ga_id
-    # host: your_host
+  # id: UA-xxxxxxxx
+  # host: tuo_sito
