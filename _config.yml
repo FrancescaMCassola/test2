@@ -5,7 +5,9 @@ welcome_message: From behaviour to conservation, with a passion for storytelling
 description: MSCA Postdoctoral Research Fellow at Anglia Ruskin University, Cambridge, Uk
 creator: Francesca M. Cassola
 
-url: "https://francescamcassola.github.io/test2"
+url: "https://francescamcassola.github.io"
+baseurl: "/test2"
+
 
 permalink: /:year/:month/:title/
 highlighter: rouge
