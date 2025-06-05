@@ -31,19 +31,21 @@
           <div>
             <nav class="cover-navigation cover-navigation--primary">
 
-              <!-- Prima riga: Blog + altri pulsanti -->
               <ul class="navigation" style="flex-wrap: wrap;">
-                <li class="navigation__item">
-                  <a href="/#blog" title="{{ site.blog_button.description }}">{{ site.blog_button.title }}</a>
-                </li>
-                {% for item in site.nav %}
-                  {% unless item.title contains 'IT' or item.title contains 'ES' %}
-                    <li class="navigation__item">
-                      <a href="{{ item.url }}" title="{{ item.description }}">{{ item.title }}</a>
-                    </li>
-                  {% endunless %}
-                {% endfor %}
-              </ul>
+  <!-- Pulsante Blog (solo una volta) -->
+  <li class="navigation__item">
+    <a href="/#blog" title="{{ site.blog_button.description }}">{{ site.blog_button.title }}</a>
+  </li>
+
+  <!-- Altri pulsanti (esclusi IT/ES) -->
+  {% for item in site.nav %}
+    {% unless item.title contains 'IT' or item.title contains 'ES' %}
+      <li class="navigation__item">
+        <a href="{{ item.url }}" title="{{ item.description }}">{{ item.title }}</a>
+      </li>
+    {% endunless %}
+  {% endfor %}
+</ul>
 
               <!-- Seconda riga: lingue -->
               <ul class="navigation" style="display: flex; justify-content: center; margin-top: 1rem;">
