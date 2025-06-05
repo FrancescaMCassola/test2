@@ -4,7 +4,10 @@ title: Curriculum Vitae
 permalink: /cv/
 ---
 
-<h1 style="background-color:#c0392b; color:white; padding:0.5em; border-radius:8px; text-align:center;">Curriculum Vitae</h1>
+<div style="background-color:#c0392b; color:white; padding:1rem; border-radius:8px; text-align:center; margin-bottom: 2rem;">
+  <h1 style="margin: 0;">Curriculum Vitae</h1>
+</div>
+
 
 ## 👩‍🔬 Academic and Research Experience
 
