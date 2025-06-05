@@ -31,7 +31,8 @@ social:
   twitter: https://x.com/xisca_cassola
   bluesky: https://bsky.app/profile/xiscacassola.bsky.social
   orcid: https://orcid.org/0000-0002-0849-0070
-  podcast: https://open.spotify.com/show/tuo-podcast
+  researchgate: https://www.researchgate.net/profile/Francesca-Cassola
+
 
 # Pagination
 plugins: [jekyll-paginate]
