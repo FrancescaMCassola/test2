@@ -4,7 +4,7 @@ permalink: /es/projects/
 ---
 <div style="text-align:right; margin-bottom: 1rem;">
   <a href="/test2/en/projects/" style="margin-right: 1em;">🇬🇧 EN</a>
-  <a href="/test2/it/projects/">🇮🇹 IT</a>
+  <a href="//test2/it/projects/">🇮🇹 IT</a>
 </div>
 
 <div style="background-color:#a02020; padding:1rem; border-radius:8px; text-align:left; margin-bottom: 2rem;">
