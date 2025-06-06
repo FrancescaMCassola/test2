@@ -32,4 +32,3 @@ Collaboratori chiave: *Centro de Estudios de Desarrollo Sustentable y Aprovecham
 Tutti i contenuti sono gratuiti e disponibili in italiano, inglese e spagnolo.
 
 [🔗 Scopri di più qui](https://linktr.ee/dropsofscienceofficial)
-![image](https://github.com/user-attachments/assets/51b8fd1c-7eca-4615-b545-3c8272784b17)
