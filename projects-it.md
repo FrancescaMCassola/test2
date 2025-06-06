@@ -7,6 +7,11 @@ permalink: /it/projects/
   <h1 style="margin: 0; font-size: 2em; color:white;">Progetti</h1>
 </div>
 
+<div style="text-align:right; margin-bottom: 1rem;">
+  🌍 <a href="/projects/" style="margin-right: 1em;">🇬🇧 EN</a>
+  <a href="/es/projects/">🇪🇸 ES</a>
+</div>
+
 ## 🐊 EvOCRO – Evolutionary Origins of Cognition in Crocodiles
 
 Borsa Postdoc Marie Skłodowska-Curie  
