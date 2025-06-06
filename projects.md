@@ -3,7 +3,7 @@ layout: page
 permalink: /projects/
 ---
 
-<div style="background-color:#a02020; padding:1rem; border-radius:8px; text-align:center; margin-bottom: 2rem;">
+<div style="background-color:#a02020; padding:1rem; border-radius:8px; text-align:left; margin-bottom: 2rem;">
   <h1 style="margin: 0; font-size: 2em;color:white; ">Projects</h1>
 </div>
 
