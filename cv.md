@@ -121,7 +121,7 @@ Speaker at “Il monitoraggio degli ecosistemi: una nuova generazione di indicat
 
 ---
 
-## Certifications
+## 📝 Certifications
 
 Global Red List IUCN Assessor Certificate (2015)
 
