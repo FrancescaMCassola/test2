@@ -14,23 +14,22 @@ Marie Skłodowska-Curie Postdoctoral Fellowship
 **Institution**: Anglia Ruskin University, Cambridge (UK)  
 **Dates**: 2025–2027  
 
-The EvOCRO project investigates how cognitive plasticity evolves across life stages in crocodilians, combining approaches from behavioral ecology, comparative psychology, and evolutionary biology. 
+The EvOCRO project investigates the evolution of cognitive plasticity across life stages in crocodilians, integrating approaches from behavioural ecology, comparative psychology, and evolutionary biology.  
 
-Collaborators include CEDESU and the Crocodile Research and Management for Conservation Group (Mexico).
-
----
-
-## 📢 Science Communication – Drops of Science
-
-**Drops of Science** is a multilingual science dissemination initiative, including:
-
-🎙️ A podcast covering the latest in natural sciences  
-📝 A blog with accessible summaries and commentary  
-📱 Posts on Instagram, Twitter/X, Facebook, Tumblr and Bluesky  
-
-Launched in July 2023, the project aims to make ecological and behavioral research more accessible and engaging for everyone.  
-[Discover more here](https://linktr.ee/dropsofscienceofficial)
+Key collaborators include the *Centro de Estudios de Desarrollo Sustentable y Aprovechamiento de la Vida Silvestre* (CEDESU, Mexico) and the Crocodile Research and Management for Conservation Group (Mexico).
 
 ---
 
-Feel free to reach out if you'd like to collaborate or feature in the podcast!
+## 📢 Drops of Science – News from Natural Sciences
+
+**Drops of Science** is a multilingual science communication initiative featuring:
+
+🎙️ A monthly podcast on current topics in the natural sciences  
+📝 A blog with weekly articles  
+📱 Social media updates on Instagram, Twitter/X, Facebook, Tumblr, and Bluesky  
+
+All content is freely available in English, Spanish, and Italian.
+
+Launched in July 2023, the project aims to make ecological and behavioural research more accessible, inclusive, and engaging.  
+[🔗 Discover more here](https://linktr.ee/dropsofscienceofficial)
+
