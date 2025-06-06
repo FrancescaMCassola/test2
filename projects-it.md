@@ -21,7 +21,7 @@ Collaboratori chiave: *Centro de Estudios de Desarrollo Sustentable y Aprovecham
 
 ---
 
-## 📢 Drops of Science – Notizie dalle Scienze Naturali
+## 📢 Drops of Science – News from Natural Sciences 
 
 **Drops of Science** è un’iniziativa multilingue di comunicazione scientifica, lanciata nel luglio 2023, che mira a rendere la ricerca ecologica e comportamentale più accessibile, inclusiva e coinvolgente. Include:
 
