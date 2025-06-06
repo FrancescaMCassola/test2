@@ -3,13 +3,13 @@ layout: page
 permalink: /it/projects/
 ---
 
-<div style="background-color:#a02020; padding:1rem; border-radius:8px; text-align:left; margin-bottom: 2rem;">
-  <h1 style="margin: 0; font-size: 2em; color:white;">Progetti</h1>
+<div style="text-align:right; margin-bottom: 1rem;">
+  🌍 <a href="/test2/projects/" style="margin-right: 1em;">🇬🇧 EN</a>
+  <a href="/test2/es/projects/">🇪🇸 ES</a>
 </div>
 
-<div style="text-align:right; margin-bottom: 1rem;">
-  🌍 <a href="/projects/" style="margin-right: 1em;">🇬🇧 EN</a>
-  <a href="/es/projects/">🇪🇸 ES</a>
+<div style="background-color:#a02020; padding:1rem; border-radius:8px; text-align:left; margin-bottom: 2rem;">
+  <h1 style="margin: 0; font-size: 2em; color:white;">Progetti</h1>
 </div>
 
 ## 🐊 EvOCRO – Evolutionary Origins of Cognition in Crocodiles
