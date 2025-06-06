@@ -20,7 +20,7 @@ blog_button:
 
 # Main navigation
 nav:
-  
+  - {title: Blog, description: Updates and reflections from my work, url: '/blog'}
   - {title: CV, description: Education and publications, url: '/cv'}
   - {title: Projects, description: Outreach and current MSCA project, url: '/projects'}
   - {title: IT 🇮🇹, description: Versione italiana, url: '/it/'}
