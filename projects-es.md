@@ -3,7 +3,7 @@ layout: page
 permalink: /es/projects/
 ---
 <div style="text-align:right; margin-bottom: 1rem;">
-  <a href="/test2/en/projects/" style="margin-right: 1em;">🇬🇧 EN</a>
+  <a href="/test2/projects/" style="margin-right: 1em;">🇬🇧 EN</a>
   <a href="//test2/it/projects/">🇮🇹 IT</a>
 </div>
 
